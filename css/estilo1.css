@@ -1,0 +1,145 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#general1
+{
+    margin: auto;
+    margin-top: 35px;
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine
+}
+#caja1
+{
+    margin: auto;
+    width: 560px;
+    height: 150px;
+    background-color: gold
+}
+#caja2
+{
+    margin: auto;
+    width: 560px;
+    height: 150px;
+    background-color: gray
+}
+
+#caja3
+{
+    margin: auto;
+    float: left;
+    width: 250px;
+    height: 200px;
+    background-color: red
+}
+
+#caja4
+{
+    margin: auto;
+    float: right;
+    width: 250px;
+    height: 200px;
+    background-color: green
+}
+#general2
+{
+    margin: auto;
+    margin-top: 35px;
+    width: 600px;
+    height: 500px;
+    background-color: rgb(255, 211, 123)
+}
+#cabello
+{
+    width: 100%;
+    height: 30%;
+    background-color: rgb(157, 65, 0);
+}
+#ojo1
+{
+    margin-top: 10%;
+    margin-left: 10%;
+    float: left;
+    width: 30%;
+    height:15%;
+    background-color: white;
+}
+#ojo2
+{
+    margin-top: 10%;
+    margin-right: 10%;
+    float: right;
+    width: 30%;
+    height:15%;
+    background-color: white;
+}
+#nariz
+{
+    margin-top: 2%;
+    margin-right: 37%;
+    float: right;
+    width: 25%;
+    height:15%;
+    background-color: rgb(255, 0, 153);
+}
+#boca
+{
+    margin-top: 5%;
+    margin-right: 30%;
+    float: right;
+    width: 40%;
+    height:10%;
+    background-color: rgb(255, 0, 0);
+}
+#general3
+{
+    margin: auto;
+    margin-top: 35px;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    background-color: rgb(0, 255, 145);
+}
+
+#ojoizq {
+    margin-top: 20%;
+    margin-left: 15%;
+    float: left;
+    width: 25%;
+    height:25%;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#ojodere {
+    margin-top: 20%;
+    margin-right: 15%;
+    float: right;
+    width: 25%;
+    height:25%;
+    border-radius: 50%;
+    background-color: white;
+}
+#nariz2
+{
+    margin: auto;
+    width: 200px;
+    height: 100px;
+    border-radius: 30%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+}
+#boca2
+{
+    margin-top: 4%;
+    margin-left: 17%;
+    width: 400px;
+    height:100px;
+    border-radius: 40%;
+    background-color: rgb(255, 157, 0);
+}
